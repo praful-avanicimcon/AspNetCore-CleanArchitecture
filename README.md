@@ -3,7 +3,15 @@
 Certainly! Here's a list of 200 interview questions and answers for ASP.NET Core Web API with Clean Architecture, along with sample code examples:
 
 # 1. What is ASP.NET Core?
-  ASP.NET Core is an open-source, cross-platform framework for building web applications and APIs. It is a complete rewrite of the previous ASP.NET framework and provides improved performance, modularity, and scalability.
+  ASP.NET Core is a cross-platform, open-source web development framework built by Microsoft. It allows developers to build web applications and APIs using the .NET programming language. 
+
+ASP.NET Core is designed to be fast, modular, and scalable. It provides a unified framework for building web applications that can run on Windows, macOS, or Linux. 
+
+Some key features of ASP.NET Core include:
+- Cross-platform compatibility: ASP.NET Core applications can be developed and deployed on multiple operating systems, giving developers flexibility in choosing their preferred platform.
+- High performance: ASP.NET Core is optimized for performance, providing fast response times and efficient resource usage.
+- Modularity: It allows developers to choose and include only the required components for their application, keeping the application lightweight and reducing unnecessary overhead.
+- Dependency Injection: ASP.NET Core has built-in support for dependency injection, which helps manage object dependencies and promotes loose coupling, making it easier to maintain and test applications.
 
 # 2. What is Clean Architecture?
   Clean Architecture is a software architecture pattern that helps in building maintainable and scalable applications by promoting the      separation of concerns and clear boundaries between different layers of the application.
